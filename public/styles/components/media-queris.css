@@ -1,0 +1,41 @@
+/*
+    #Dispositivos de escritorio 
+*/
+@media (min-width: 1024px) {
+
+}
+
+/*
+    #Dispositivos de escritorio L
+*/
+@media (min-width: 1760px) {
+
+}
+
+/*
+    #Dispositivos moviles (S y M), Portrait
+*/
+@media (min-width: 320px) and (max-width: 375px) and (orientation: portrait){
+    
+}
+
+/*
+    #Dispositivos moviles (S y M), Landscape
+*/
+@media (min-width: 568px) and (max-width: 735px) and (orientation: landscape) {
+    
+}
+
+/*
+    #Dispositivos moviles (L) y Tablets, Portrait
+*/
+@media (min-width: 376px) and (max-width: 768px) and (orientation: portrait){
+
+}
+
+/*
+    #Dispositivos moviles (L) y Tablets, Landscape
+*/
+@media (min-width: 736px) and (max-width: 926px) and (orientation: landscape) {
+
+}
